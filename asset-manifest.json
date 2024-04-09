@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yakuza-app/static/css/main.ffdda704.css",
-    "main.js": "/yakuza-app/static/js/main.b6550a82.js",
+    "main.css": "/yakuza-app/static/css/main.044d50c2.css",
+    "main.js": "/yakuza-app/static/js/main.d51e5d7c.js",
     "index.html": "/yakuza-app/index.html",
-    "main.ffdda704.css.map": "/yakuza-app/static/css/main.ffdda704.css.map",
-    "main.b6550a82.js.map": "/yakuza-app/static/js/main.b6550a82.js.map"
+    "main.044d50c2.css.map": "/yakuza-app/static/css/main.044d50c2.css.map",
+    "main.d51e5d7c.js.map": "/yakuza-app/static/js/main.d51e5d7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffdda704.css",
-    "static/js/main.b6550a82.js"
+    "static/css/main.044d50c2.css",
+    "static/js/main.d51e5d7c.js"
   ]
 }
