@@ -10,4 +10,10 @@
 .img-opacity-3 {
   opacity: 0.3;
   background-color: black;
+  
+}
+
+.write-vertical {
+  writing-mode: vertical-lr;
+  transform: rotate(-180deg);
 }

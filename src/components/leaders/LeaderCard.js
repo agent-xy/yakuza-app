@@ -4,10 +4,7 @@ import {
   Card,
   CardHeader,
   CardBody,
-  CardFooter,
   Typography,
-  Tooltip,
-  Avatar,
 } from "@material-tailwind/react";
 
 const LeaderCard = ({ img, name, text}) => {

@@ -6,8 +6,11 @@ module.exports = withMT({
   content: ["./src/**/*.js",],
   theme: {
     extend: {
+      colors: {
+        'hh-white': '#DBDBDB',
+      },
       backgroundImage: {
-        'hero': "url('http://localhost:3000/assets/images/hh1.jpg')",
+        'hero': "url('https://agent-xy.github.io/yakuza-app/assets/images/hh1.jpg')",
       }
     },
     fontFamily: {
