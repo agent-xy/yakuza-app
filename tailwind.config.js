@@ -13,7 +13,7 @@ module.exports = withMT({
       },
       backgroundImage: {
         'hero': "url('https://agent-xy.github.io/yakuza-app/assets/images/hh1.jpg')",
-        'costume-video': "url(http://localhost:3000/yakuza-app/assets/images/hhPattern1.png)",
+        'costume-video': "url('https://agent-xy.github.io/yakuza-app/assets/images/hhPattern1.png')",
       }
     },
     fontFamily: {
