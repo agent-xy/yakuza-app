@@ -4,6 +4,7 @@ import Footer from './components/footer/Footer';
 import Hero from './components/hero/Hero'
 import Leaders from './components/leaders/Leaders';
 import VerticalNavbar from './components/verticalNav/VerticalNavbar';
+import Video from './components/videos/Video';
 
 
 
@@ -12,6 +13,7 @@ function App() {
     <div className="">
       <VerticalNavbar />
       <Hero/>
+      <Video />
       <Leaders/>
       <Cars />
       <Footer />
